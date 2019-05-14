@@ -1,5 +1,5 @@
 # NeonPanda
-A neon flat theme based on arc-theme.
+A neon green, yellow, white and black high contrast flat theme based on arc theme.
 
 # Arc Theme
 
