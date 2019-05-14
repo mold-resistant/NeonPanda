@@ -1,0 +1,12 @@
+[Desktop Entry]
+Type=X-GNOME-Metatheme
+Name=NeonPanda
+Comment=A neon green and purple flat theme with transparent elements, based off arc-theme.
+Encoding=UTF-8
+
+[X-GNOME-Metatheme]
+GtkTheme=Arc-Darker
+MetacityTheme=Arc-Darker
+IconTheme=gnome
+CursorTheme=DMZ-Black
+ButtonLayout=menu:minimize,maximize,close
