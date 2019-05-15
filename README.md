@@ -2,7 +2,7 @@
 
 [sss]: https://i.imgur.com/mJALG1g.jpg "NeonPanda"
 # NeonPanda
-A neon green, yellow, white and black high contrast flat theme based on arc theme.
+A neon green, purple, white and black high contrast flat theme based on arc theme.
 
 # Arc Theme
 
