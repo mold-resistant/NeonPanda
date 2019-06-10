@@ -11,7 +11,7 @@ Arc is a flat theme with transparent elements for GTK 3, GTK 2 and GNOME Shell w
 # Preview
 ![screenshot 1][ss]
 
-[ss]: https://i.imgur.com/Zb2kbl3.png "NeonPanda theme"
+[ss]: https://i.imgur.com/Qu3xlfp.png "NeonPanda theme"
 
 Get the icons: https://github.com/mold-resistant/NeonPanda-Icons
 
